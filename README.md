@@ -1,2 +1,1 @@
-# transactional-rabbitmq
-Transactional RabbitMQ
+# Transactional RabbitMQ
